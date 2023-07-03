@@ -55,6 +55,110 @@
     "minecraft:cherry_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "terrestria:rubber_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:palm_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false
+    },
+    "terrestria:sakura_leaves": {
+      "spawnRateFactor": 1.4,
+      "isConiferBlock": false
+    },
+    "terrestria:redwood_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "terrestria:japanese_maple_shrub_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:rainbow_eucalyptus_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:cotton_sakura_blossoms": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:blush_sakura_blossoms": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderwild:cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:fulvous_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "ad_astra:glacian_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:yucca_palm_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false
+    },
+    "terrestria:hemlock_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "promenade:vermilion_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "terrestria:dark_japanese_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:japanese_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:sap_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderwild:baobab_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "sculk_depths:valtrox_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:mikado_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:snowy_spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:willow_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "terrestria:jungle_palm_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false
+    },
+    "wilderwild:palm_fronds": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:warped_wart_block": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

@@ -1,0 +1,4 @@
+{
+  "fileSizeLimit": "1MB",
+  "fileConnectionTimeout": 30000
+}
