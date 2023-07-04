@@ -2,8 +2,6 @@
 ```v0.0.2-Alpha```
 ```Stable``` ```1.20.1```
 
-Happy summer!
-
 ## About
 Adventure minecraft modpack
 
