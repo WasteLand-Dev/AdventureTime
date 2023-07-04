@@ -3,7 +3,7 @@
 ```Stable``` ```1.20.1```
 
 ## About
-Adventure minecraft modpack
+Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
 
 ## Install Liroth mod!
 
