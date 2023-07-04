@@ -2,8 +2,8 @@
   "main_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": ["Official WasteLand Origin modpack"],
-    "bottom_right": ["https://wlorigin.cf/"],
+    "bottom_left": ["Adventure Time v0.0.2-Alpha"],
+    "bottom_right": ["https://modrinth.com/modpack/adventuretime"],
     "mod_blacklist": []
   },
   "pause_menu": {

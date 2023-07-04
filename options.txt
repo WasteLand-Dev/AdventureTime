@@ -121,8 +121,13 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.arachnids.reload:key.keyboard.r
+key_key.arachnids.scope:key.keyboard.left.alt
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.f9
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.keypad.0
 key_key.fpsdisplay.toggleFpsOverlay:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1

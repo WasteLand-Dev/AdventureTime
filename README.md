@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.0.1-Develop```
+```v0.0.2-Alpha```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -7,32 +7,20 @@ Happy summer!
 ## About
 Adventure minecraft modpack
 
+## Install Liroth mod!
+
 ### Changelog:
-- In develop
+- Add some addons and mods
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
 
-## Screenshots
-![2023-07-03_19 03 51](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3f8addbd-feb5-4457-b421-2309974e9968)
-![2023-07-03_19 04 19](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3a491093-18c1-49ac-ad46-4f0721d59759)
-![2023-07-03_19 04 53](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2d8edefe-592a-4b34-971d-380a6a1006c7)
-![2023-07-03_19 10 01](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/cf121c59-6092-45a7-9db3-4766b295bb20)
-![2023-07-03_19 10 44](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/5db040da-2eba-48b9-acc9-031fb07c5f27)
-![2023-07-03_19 11 46](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/d3502039-fce5-428e-88d8-bfd58e59edbb)
-![2023-07-03_19 13 11](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/735ba57b-27e3-4959-b877-7fabb2be47cd)
-![2023-07-03_19 17 25](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/89fe51d0-9a02-4dbe-8169-db1a235f751c)
-![2023-07-03_19 19 07](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/ce36dd39-50f1-45e0-a78a-6b8cf5d0beb6)
-![2023-07-03_19 20 34](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/8b09251c-9854-4b36-8966-7572338668e9)
-![2023-07-03_19 20 48](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/7e8c8244-42ee-4d52-ad32-98c7b097b140)
-![2023-07-03_19 22 33](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/5d6c1236-047f-4d58-8580-79dcb65aa8c4)
-
-
 [Site]: https://wlorigin.cf/
 [Discord]: https://discord.gg/UBaauaN
 [Telegram]: https://t.me/wlorigin
+[Wiki]: https://wiki.wlorigin.cf
 
-[Our site][Site] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram]
+[Our site][Site] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
 
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
