@@ -7,6 +7,12 @@ Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. A
 
 This modpack will give you a lot of emotions. Starting from realistic village mechanics: conversations, creating a family, professions, guards, ending with a space race and aliens! You also have to protect the earth from arachnids. But be careful with every mob: there is no hardcore bleeding mechanic in the modpack!
 
+## Community
+We are an open community, always ready to help. We have our own discord server with a forum, a github page where you can leave noticed bugs or your suggestions.
+
+## Perfomance
+We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
+
 ## Install Liroth mod!
 
 ### Changelog:
