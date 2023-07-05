@@ -5,6 +5,8 @@
 ## About
 Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
 
+This modpack will give you a lot of emotions. Starting from realistic village mechanics: conversations, creating a family, professions, guards, ending with a space race and aliens! You also have to protect the earth from arachnids. But be careful with every mob: there is no hardcore bleeding mechanic in the modpack!
+
 ## Install Liroth mod!
 
 ### Changelog:
