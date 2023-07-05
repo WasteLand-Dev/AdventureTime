@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.0.2-Alpha```
+```v0.0.3-Alpha```
 ```Stable``` ```1.20.1```
 
 ## About
@@ -8,7 +8,8 @@ Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. A
 ## Install Liroth mod!
 
 ### Changelog:
-- Add some addons and mods
+- Remove primal stage
+- Remove license problematic mods
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
