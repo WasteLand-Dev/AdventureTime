@@ -1,24 +1,29 @@
-# AdventureTime
-```v0.0.1-Develop```
+# modpacksodium
+```v9.5.12.76-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
 
 ## About
-Adventure minecraft modpack
+A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- In develop
+- Update clumps to 12.0.0.3
+- Update CraftPresence to stable version
+- Update clickthrough to 1.20.1
+- Update Complementary Reimagined to 2.2.1
+- Update fabric api to 0.85.0
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
 
 [Site]: https://wlorigin.cf/
+[Download]: https://wlorigin.cf/downloadmodpack.html
 [Discord]: https://discord.gg/UBaauaN
 [Telegram]: https://t.me/wlorigin
 [Wiki]: https://wiki.wlorigin.cf
 
-[Our site][Site] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
+[Our site][Site] - [Download][Download] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
 
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
@@ -50,5 +55,5 @@ Tip: use the latest version of fabric
 
 #### Launch options
 ```
--Xmx8192M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
+-Xmx4096M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
 ```
