@@ -71,10 +71,9 @@ Tip: use the latest version of fabric
 -Xmx8192M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
 ```
 
-## License agreements
+## Other mods
 - [Liroth: Revamped (Fabric)](https://www.curseforge.com/minecraft/mc-mods/liroth-revamped-fabric)
 - [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
 - [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
-- [Better Fps dist](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)
-- [More Frogs](https://www.curseforge.com/minecraft/mc-mods/more-frogs-fabric)
-- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords)
+- Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
+
