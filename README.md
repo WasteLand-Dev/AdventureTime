@@ -13,8 +13,6 @@ We are an open community, always ready to help. We have our own discord server w
 ## Perfomance
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
-## Install Liroth mod!
-
 ### Changelog:
 - Remove primal stage
 - Remove license problematic mods
@@ -72,7 +70,6 @@ Tip: use the latest version of fabric
 ```
 
 ## Other mods
-- [Liroth: Revamped (Fabric)](https://www.curseforge.com/minecraft/mc-mods/liroth-revamped-fabric)
 - [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
 - [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
 - Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
