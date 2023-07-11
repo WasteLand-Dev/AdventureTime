@@ -1,32 +1,47 @@
-# modpacksodium
-```v9.5.12.77-Release```
+# AdventureTime
+```v0.0.4-Alpha```
 ```Stable``` ```1.20.1```
 
-Happy summer!
-
 ## About
-A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
+Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
+
+This modpack will give you a lot of emotions. Starting from realistic village mechanics: conversations, creating a family, professions, guards, ending with a space race and aliens! You also have to protect the earth from arachnids. But be careful with every mob: there is no hardcore bleeding mechanic in the modpack!
+
+## Community
+We are an open community, always ready to help. We have our own discord server with a forum, a github page where you can leave noticed bugs or your suggestions.
+
+## Perfomance
+We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
+
+## Install Liroth mod!
 
 ### Changelog:
-- Update 3dskinlayers to 1.5.4
-- Update CraftPresence to 2.1.2
-- Update Debugify to 2.0
-- New! Add alternate current
-- Update authme to 7.0.2
-- Update cloth config to 11.1.106
-- Update indium to 1.0.21
-- Update yet another config lib to 3.0.3
+- Remove primal stage
+- Remove license problematic mods
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
 
+## Screenshots
+![2023-07-03_19 03 51](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3f8addbd-feb5-4457-b421-2309974e9968)
+![2023-07-03_19 04 19](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3a491093-18c1-49ac-ad46-4f0721d59759)
+![2023-07-03_19 04 53](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2d8edefe-592a-4b34-971d-380a6a1006c7)
+![2023-07-03_19 10 01](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/cf121c59-6092-45a7-9db3-4766b295bb20)
+![2023-07-03_19 10 44](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/5db040da-2eba-48b9-acc9-031fb07c5f27)
+![2023-07-03_19 11 46](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/d3502039-fce5-428e-88d8-bfd58e59edbb)
+![2023-07-03_19 13 11](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/735ba57b-27e3-4959-b877-7fabb2be47cd)
+![2023-07-03_19 17 25](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/89fe51d0-9a02-4dbe-8169-db1a235f751c)
+![2023-07-03_19 19 07](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/ce36dd39-50f1-45e0-a78a-6b8cf5d0beb6)
+![2023-07-03_19 20 34](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/8b09251c-9854-4b36-8966-7572338668e9)
+![2023-07-03_19 20 48](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/7e8c8244-42ee-4d52-ad32-98c7b097b140)
+![2023-07-03_19 22 33](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/5d6c1236-047f-4d58-8580-79dcb65aa8c4)
+
 [Site]: https://wlorigin.cf/
-[Download]: https://wlorigin.cf/downloadmodpack.html
 [Discord]: https://discord.gg/UBaauaN
 [Telegram]: https://t.me/wlorigin
 [Wiki]: https://wiki.wlorigin.cf
 
-[Our site][Site] - [Download][Download] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
+[Our site][Site] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
 
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
@@ -46,11 +61,6 @@ https://fabricmc.net/
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ```
-Совет: установите нашу иконку для установки в лаунчере (launcher_logo.png)
-Совет: используйте эти параметры запуска, они помогут добиться большей эффективности :)
-Совет: используйте последнюю версию fabric
-```
-```
 Tip: install our icon to install in the launcher (launcher_logo.png)
 Tip: use these launch options, they will help you to be more efficient :)
 Tip: use the latest version of fabric
@@ -58,5 +68,12 @@ Tip: use the latest version of fabric
 
 #### Launch options
 ```
--Xmx4096M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
+-Xmx8192M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
 ```
+
+## Other mods
+- [Liroth: Revamped (Fabric)](https://www.curseforge.com/minecraft/mc-mods/liroth-revamped-fabric)
+- [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
+- [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
+- Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
+

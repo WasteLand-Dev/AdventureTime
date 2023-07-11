@@ -1,0 +1,17 @@
+{
+  "bleedoutKills": true,
+  "bleedingStopsFoodHealing": true,
+  "fireDamageLowersBleedingDuration": true,
+  "chanceToLowerBleedingAmplifierWithFire": 28,
+  "enableMeleeEffectUpgrading": true,
+  "enableArrowEffectUpgrading": false,
+  "baseChanceToUpgradeBleedingOrHealthLoss": 7,
+  "meleeBleedLength": 200,
+  "healthLossLength": 1450,
+  "arrowBleedLength": 115,
+  "bleedoutLength": 1200,
+  "armorBleedingProtection": 3.0,
+  "toughnessBleedingProtection": 4.0,
+  "enableDarknessAtLowHp": true,
+  "enableBlindnessAtLowHp": true
+}
