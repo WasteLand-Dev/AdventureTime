@@ -1,6 +1,6 @@
 # AdventureTime
-```v0.0.4-Alpha```
-```Stable``` ```1.20.1```
+```v0.0.5-Beta```
+```Stable```
 
 ## About
 Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
