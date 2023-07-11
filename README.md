@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.5.12.76-Release```
+```v9.5.12.77-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,11 +8,14 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update clumps to 12.0.0.3
-- Update CraftPresence to stable version
-- Update clickthrough to 1.20.1
-- Update Complementary Reimagined to 2.2.1
-- Update fabric api to 0.85.0
+- Update 3dskinlayers to 1.5.4
+- Update CraftPresence to 2.1.2
+- Update Debugify to 2.0
+- New! Add alternate current
+- Update authme to 7.0.2
+- Update cloth config to 11.1.106
+- Update indium to 1.0.21
+- Update yet another config lib to 3.0.3
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
