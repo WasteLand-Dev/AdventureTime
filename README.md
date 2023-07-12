@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.0.5-Beta```
+```v0.0.6-Beta```
 ```Stable```
 
 ## About
@@ -14,8 +14,7 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Remove primal stage
-- Remove license problematic mods
+- Remove forgottengraves (fix)
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
@@ -43,9 +42,9 @@ https://fabricmc.net/
 
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/WasteLand-Dev/modpacksodium" /></a>
+        <img src="https://img.shields.io/github/contributors/WasteLand-Dev/AdventureTime" /></a>
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/WasteLand-Dev/modpacksodium" /></a>
+        <img src="https://img.shields.io/github/commit-activity/m/WasteLand-Dev/AdventureTime" /></a>
     <a href="https://discord.gg/UBaauaN">
         <img src="https://img.shields.io/discord/716326875613364277?logo=discord"
             alt="chat on Discord"></a>
