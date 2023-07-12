@@ -79,7 +79,9 @@
       "origins-plus-plus:demi-god/raw_rabbit": true,
       "origins-plus-plus:demi-god/raw_rotten_flesh": true,
       "origins-plus-plus:demi-god/raw_salmon": true,
-      "origins-plus-plus:demi-god/raw_tropicalfish": true
+      "origins-plus-plus:demi-god/raw_tropicalfish": true,
+      "origins-plus-plus:demi-god/more_boss_damage": true,
+      "origins-plus-plus:demi-god/raw_meat_buff": true
     },
     "origins-plus-plus:wizard": {
       "enabled": true,
@@ -215,7 +217,8 @@
       "origins-plus-plus:dolphin/speed_water": true,
       "origins-plus-plus:dolphin/summon_dolphin": true,
       "origins-plus-plus:dolphin/water_breathing": true,
-      "origins-plus-plus:dolphin/water_vision": true
+      "origins-plus-plus:dolphin/water_vision": true,
+      "origins-plus-plus:dolphin/fish_buff": true
     },
     "origins-plus-plus:glacier": {
       "enabled": true,
@@ -468,7 +471,9 @@
       "origins-plus-plus:rift-mage/return_to_rift": true,
       "origins-plus-plus:rift-mage/sustain": true,
       "origins-plus-plus:rift-mage/turn_purpur": true,
-      "origins-plus-plus:rift-mage/water_hater": true
+      "origins-plus-plus:rift-mage/water_hater": true,
+      "origins-plus-plus:rift-mage/no_food": true,
+      "origins-plus-plus:rift-mage/no_pearls": true
     },
     "origins-plus-plus:drakonwither": {
       "enabled": true,
@@ -500,7 +505,8 @@
       "origins-plus-plus:chimaera/phase_shift": true,
       "origins-plus-plus:chimaera/schrodinger_vitality": true,
       "origins-plus-plus:chimaera/unstable": true,
-      "origins-plus-plus:chimaera/xenite_implants": true
+      "origins-plus-plus:chimaera/xenite_implants": true,
+      "origins-plus-plus:chimaera/no_food": true
     },
     "origins-plus-plus:golden_golem": {
       "enabled": true,
@@ -904,7 +910,12 @@
       "toomanyorigins:conductor": true,
       "toomanyorigins:blast_immunity": true,
       "toomanyorigins:sneaking_steps": true,
-      "toomanyorigins:ailurophobia": true
+      "toomanyorigins:ailurophobia": true,
+      "toomanyorigins:buildup": true,
+      "toomanyorigins:aerial_stability": true,
+      "toomanyorigins:stubby_legs": true,
+      "toomanyorigins:conductive": true,
+      "toomanyorigins:redirect_lightning_chance": true
     },
     "origins-plus-plus:beaver": {
       "enabled": true,
@@ -1153,7 +1164,8 @@
       "origins-plus-plus:goolien/no_lungs": true,
       "origins-plus-plus:goolien/splat": true,
       "origins-plus-plus:goolien/sticky_grip": true,
-      "origins-plus-plus:goolien/stomach_body": true
+      "origins-plus-plus:goolien/stomach_body": true,
+      "origins-plus-plus:goolien/unwieldy": true
     },
     "moborigins:slime": {
       "enabled": true,
@@ -1440,7 +1452,11 @@
       "origins-plus-plus:giant/spider": true,
       "origins-plus-plus:giant/strong": true,
       "origins-plus-plus:giant/sturdy": true,
-      "origins-plus-plus:giant/swim": true
+      "origins-plus-plus:giant/swim": true,
+      "origins-plus-plus:giant/crossbow": true,
+      "origins-plus-plus:giant/no_elytra": true,
+      "origins-plus-plus:giant/prevent_mount": true,
+      "origins-plus-plus:giant/unwieldy": true
     },
     "origins-plus-plus:deathsworn": {
       "enabled": true,
@@ -1460,7 +1476,8 @@
       "origins-plus-plus:deathsworn/special": true,
       "origins-plus-plus:deathsworn/stat_checker": true,
       "origins-plus-plus:deathsworn/summon": true,
-      "origins-plus-plus:deathsworn/take_soul": true
+      "origins-plus-plus:deathsworn/take_soul": true,
+      "origins-plus-plus:deathsworn/carry": true
     },
     "origins-classes:cook": {
       "enabled": true,
@@ -1707,7 +1724,8 @@
       "origins-plus-plus:artificial-construct/no_food": true,
       "origins-plus-plus:artificial-construct/reach": true,
       "origins-plus-plus:artificial-construct/respawn": true,
-      "origins-plus-plus:artificial-construct/storage": true
+      "origins-plus-plus:artificial-construct/storage": true,
+      "origins-plus-plus:artificial-construct/no_hunger": true
     },
     "origins:feline": {
       "enabled": true,
@@ -1746,7 +1764,8 @@
       "origins-plus-plus:void-samurai/rain_strength": true,
       "origins-plus-plus:void-samurai/smite": true,
       "origins-plus-plus:void-samurai/speed": true,
-      "origins-plus-plus:void-samurai/unwieldy": true
+      "origins-plus-plus:void-samurai/unwieldy": true,
+      "origins-plus-plus:void-samurai/no_food": true
     },
     "toomanyorigins:hare": {
       "enabled": true,
@@ -1906,7 +1925,12 @@
       "toomanyorigins:soul_shield": true,
       "toomanyorigins:soul_shield_overlay": true,
       "toomanyorigins:wither_immunity": true,
-      "toomanyorigins:unholy": true
+      "toomanyorigins:unholy": true,
+      "toomanyorigins:affliction": true,
+      "toomanyorigins:drainage": true,
+      "toomanyorigins:hell_raised": true,
+      "toomanyorigins:spirit_strider": true,
+      "toomanyorigins:deathly_digestion": true
     },
     "origins-plus-plus:war_god": {
       "enabled": true,
@@ -1918,7 +1942,8 @@
       "origins-plus-plus:war-god/philza_reference": true,
       "origins-plus-plus:war-god/strong": true,
       "origins-plus-plus:war-god/swordsman": true,
-      "origins-plus-plus:war-god/warrior": true
+      "origins-plus-plus:war-god/warrior": true,
+      "origins-plus-plus:war-god/no_ranged_weapons": true
     },
     "origins-plus-plus:bird": {
       "enabled": true,
@@ -2053,7 +2078,9 @@
       "toomanyorigins:expendable": true,
       "toomanyorigins:beekeeper": true,
       "toomanyorigins:aerial_affinity": true,
-      "origins:arthropod": true
+      "origins:arthropod": true,
+      "toomanyorigins:stinging_pains": true,
+      "toomanyorigins:unity": true
     },
     "origins-plus-plus:illusioner/illusioner_master": {
       "enabled": true,
@@ -2142,7 +2169,10 @@
       "origins-plus-plus:bedrockean/strong": true,
       "origins-plus-plus:bedrockean/sun_weakness": true,
       "origins-plus-plus:bedrockean/toggle": true,
-      "origins-plus-plus:bedrockean/weakness": true
+      "origins-plus-plus:bedrockean/weakness": true,
+      "origins-plus-plus:bedrockean/no_food_bar": true,
+      "origins-plus-plus:bedrockean/invulnerable": true,
+      "origins-plus-plus:bedrockean/night_vision": true
     },
     "origins-plus-plus:cobra": {
       "enabled": true,
@@ -2190,7 +2220,8 @@
       "origins-plus-plus:copper-golem/oxidation_action": true,
       "origins-plus-plus:copper-golem/oxidation_resource": true,
       "origins-plus-plus:copper-golem/small": true,
-      "origins-plus-plus:copper-golem/strong": true
+      "origins-plus-plus:copper-golem/strong": true,
+      "origins-plus-plus:copper-golem/feed_on_copper": true
     },
     "origins-plus-plus:shadow_crawler": {
       "enabled": true,

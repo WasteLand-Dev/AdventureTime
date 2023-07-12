@@ -195,6 +195,14 @@
     "lostfeatures:baobab_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "pearfection:flowering_callery_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "pearfection:callery_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

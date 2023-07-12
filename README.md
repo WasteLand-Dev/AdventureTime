@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.0.6-Beta```
+```v0.0.7-Beta```
 ```Stable```
 
 ## About
@@ -14,7 +14,27 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Remove forgottengraves (fix)
+- Add Companion
+- Update Creative core
+- Update Jade
+- Update ManyFlowers
+- Update TerraBlender
+- Update ToManyOrigins
+- Add UsefulSlime
+- Add cactusfix
+- Update collective
+- Add conjuring
+- Update fish of thieves
+- Update geckolib
+- Add grabbymobs
+- Add hash-falcons
+- Add moremobvariants
+- Update Origin plus plus
+- Add perfection
+- Update resourcefullib
+- Add sanguine
+- Add snowysniffer
+- Update waystones
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
