@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.0.8-Beta```
+```v0.0.9-Beta```
 ```Stable```
 
 ## About
@@ -14,13 +14,7 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Update ExtendedDrawers
-- Update Pehkui
-- Add RegionsUnexplored
-- Update c2me
-- Update crystals overhauled
-- Update fabricskyboxes
-- Update moonlight
+- Fix world freezing
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
