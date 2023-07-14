@@ -6,7 +6,7 @@
     "behavior_in_dimension": "DEFAULT",
     "sleep_interval": 24000,
     "boring_night_bags": false,
-    "sleep_immediately": false,
+    "sleep_immediately": true,
     "heartstone_mod_integration": {
       "enabled": "WITH_MOD",
       "effects": [

@@ -16,7 +16,7 @@
     "24h_time_format": true
   },
   "misc": {
-    "show_insomnia_timer": false,
+    "show_insomnia_timer": true,
     "crossair_insomnia_cooldown": true,
     "show_time_when_sleeping": true
   }

@@ -1,0 +1,15 @@
+{
+  "hardwareMode": "REDUCED",
+  "hideActiveRenderer": true,
+  "hideTags": true,
+  "hideDebugHints": true,
+  "shyFluids": true,
+  "hideHelpShortcut": true,
+  "hideSodium": true,
+  "hideIris": true,
+  "hideLitematica": false,
+  "hideEntityCulling": true,
+  "hideViaFabric": false,
+  "hidePresenceFootsteps": true,
+  "hideDistantHorizons": false
+}

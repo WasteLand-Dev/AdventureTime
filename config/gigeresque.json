@@ -1,5 +1,5 @@
 {
-  "facehuggerGivesBlindness": false,
+  "facehuggerGivesBlindness": true,
   "alienGrowthMultiplier": 1.0,
   "aquaticAlienGrowthMultiplier": 1.0,
   "aquaticChestbursterGrowthMultiplier": 1.0,

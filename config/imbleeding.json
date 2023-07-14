@@ -4,7 +4,7 @@
   "fireDamageLowersBleedingDuration": true,
   "chanceToLowerBleedingAmplifierWithFire": 28,
   "enableMeleeEffectUpgrading": true,
-  "enableArrowEffectUpgrading": false,
+  "enableArrowEffectUpgrading": true,
   "baseChanceToUpgradeBleedingOrHealthLoss": 7,
   "meleeBleedLength": 200,
   "healthLossLength": 1450,

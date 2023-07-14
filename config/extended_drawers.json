@@ -14,9 +14,9 @@
       "hiddenIcon": "minecraft:item/black_dye",
       "dupingIcon": "extended_drawers:item/dupe_wand"
     },
-    "itemRenderDistance": 64,
+    "itemRenderDistance": 32,
     "iconRenderDistance": 16,
-    "textRenderDistance": 32
+    "textRenderDistance": 16
   },
   "storage": {
     "t1UpgradeMultiplier": 2,
