@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.1.0-Beta```
+```v0.1.1-Beta```
 ```Stable```
 
 ## About
@@ -14,23 +14,7 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Change loading screen
-- Change configs
-- Update botarium
-- Update cherished worlds
-- Update c2me
-- Add CleanF3
-- Add FastRandom
-- Add LeavesBeGone
-- Add bounced
-- Add connectiblechains
-- Add dummmmmmy
-- Add modernfix
-- Add qolfixes
-- Add raknetify
-- Add status effect bars
-- Add windchimes
-
+- Update Ad Astra
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
