@@ -1,6 +1,6 @@
 # AdventureTime
-```v0.1.1-Beta```
-```Stable```
+```v0.1.2-Beta```
+```1.20.1```
 
 ## About
 Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
@@ -14,7 +14,14 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Update Ad Astra
+- Fix crash on swapping item (Remove smooth swapping)
+- Update Jade
+- Update REI
+- Update AlloyForgery
+- Update frostiful
+- Update mythicmetals
+- Add reimaginedmenus
+- Update resourcefullib
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

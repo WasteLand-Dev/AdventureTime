@@ -1,7 +1,10 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:potion\",tag:{CustomPotionColor:0,CustomPotionEffects:[{Amplifier:1b,Duration:9600,Id:25}],Potion:\"minecraft:harming\",display:{Lore:['{\"text\":\"Some people describe its effects\",\"italic\":true}','{\"text\":\"as incredibly light and liberating.\",\"italic\":true}','{\"text\":\"But captives always spill out the\",\"italic\":true}','{\"text\":\"truth when they\\'re high enough.\",\"italic\":true}'],Name:'{\"text\":\"Will O\\' The Beer\",\"italic\":false}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"dummmmmmy:target_dummy\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"windchimes:iron_chime\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"windchimes:bamboo_chime\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"windchimes:copper_chime\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
