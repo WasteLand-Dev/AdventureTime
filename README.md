@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.1.2-Beta```
+```v0.1.3-Beta```
 ```1.20.1```
 
 ## About
@@ -14,14 +14,7 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Fix crash on swapping item (Remove smooth swapping)
-- Update Jade
-- Update REI
-- Update AlloyForgery
-- Update frostiful
-- Update mythicmetals
-- Add reimaginedmenus
-- Update resourcefullib
+- Change REI to EMI
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

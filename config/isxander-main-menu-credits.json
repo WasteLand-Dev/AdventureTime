@@ -2,7 +2,7 @@
   "main_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": ["Adventure Time v0.1.2-Beta"],
+    "bottom_left": ["Adventure Time v0.1.3-Beta"],
     "bottom_right": ["https://modrinth.com/modpack/adventuretime"],
     "mod_blacklist": []
   },
