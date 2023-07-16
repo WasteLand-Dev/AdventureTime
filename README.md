@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.1.3-Beta```
+```v0.1.4-Beta```
 ```1.20.1```
 
 ## About
@@ -14,7 +14,22 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Change REI to EMI
+- Change configs
+- Add BeaconOverhaul
+- Add IllagersWearArmor
+- Add ImmersiveThunder
+- Add Jar-Jar-Binks
+- Remove JEI and JER
+- Add LunaSlimes
+- Add Species
+- Update TooManyOrigins
+- Update Azurelib
+- Add bettercommandblockui
+- Add cat jam
+- Update cristellib
+- Update emi
+- Add skeletalremains
+- Change loading screen
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

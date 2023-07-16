@@ -1,0 +1,13 @@
+{
+  "jarjar_biomes": [
+    "minecraft:mangrove_swamp",
+    "minecraft:swamp"
+  ],
+  "darthjarjar_biomes": [
+    "minecraft:basalt_deltas",
+    "minecraft:crimson_forest",
+    "minecraft:nether_wastes",
+    "minecraft:soul_sand_valley",
+    "minecraft:warped_forest"
+  ]
+}
