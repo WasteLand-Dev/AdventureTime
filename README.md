@@ -92,4 +92,6 @@ Tip: use the latest version of fabric
 - [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
 - [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
 - Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
+- Simply Swords: ![Снимок экрана_2023-07-17_19-43-18](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/a9a7f0ca-7563-45a9-b124-7c7d51cd43d7)
+
 
