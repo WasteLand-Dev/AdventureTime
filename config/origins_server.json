@@ -1638,7 +1638,11 @@
       "origins:carnivore": true,
       "toomanyorigins:no_knockback": true,
       "toomanyorigins:loose_scales": true,
-      "toomanyorigins:zenith_scales": true
+      "toomanyorigins:zenith_scales": true,
+      "toomanyorigins:draconic_breath": true,
+      "toomanyorigins:block_synergistics": true,
+      "toomanyorigins:weaponry_pride": true,
+      "toomanyorigins:rough_claws": true
     },
     "origins-plus-plus:lost_draconian": {
       "enabled": true,
@@ -1775,7 +1779,16 @@
       "toomanyorigins:large_leap": true,
       "toomanyorigins:lightweight": true,
       "origins:vegetarian": true,
-      "toomanyorigins:lucky_footing": true
+      "toomanyorigins:lucky_footing": true,
+      "toomanyorigins:hot_hops": true,
+      "toomanyorigins:superfall": true,
+      "origins:fragile": true,
+      "toomanyorigins:drenchable_fur": true,
+      "toomanyorigins:waterskipper": true,
+      "toomanyorigins:small_appetite": true,
+      "toomanyorigins:extra_step_height": true,
+      "toomanyorigins:prevent_movement_checks": true,
+      "toomanyorigins:cancel_out_sprint_disable_on_hit": true
     },
     "origins-plus-plus:illusioner/illusioner_apprentice": {
       "enabled": true,
