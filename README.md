@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.1.7-Beta```
+```v0.1.8-Beta```
 ```1.20.1```
 
 ## About
@@ -17,15 +17,7 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Change configs (Optimize server side)
-- Add Patchouli (adds guide books)
-- Update cactusfix
-- Update explorations
-- Update fpsdisplay
-- Remove manic (fix broken textures)
-- Update moonlight
-- Add neutral animals
-- Add servercore
+- Change loading screen
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
