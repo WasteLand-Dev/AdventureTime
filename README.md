@@ -31,6 +31,13 @@ Do you want to add your server to the official list of servers? Send us a messag
 https://fabricmc.net/
 
 ## Screenshots
+![2023-07-18_14 33 00](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/7c6d025e-57f7-4be4-ade6-7a117ba9135e)
+![2023-07-18_14 08 07](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/d1671740-99f3-4956-b26e-414a22ef59f9)
+![2023-07-18_14 05 44](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/72d5814f-7725-4aa7-afa3-7bc3f2cca64d)
+![2023-07-18_14 05 15](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/996acc78-ef9f-4261-a237-4865d6fea246)
+![2023-07-18_22 58 02](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/7cc5aed6-9893-4c14-9d51-5384730aedcc)
+![2023-07-18_14 33 09](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/be86ebb1-29c7-4c7c-a271-6d5a1b4fafc5)
+![2023-07-18_14 33 24](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/523a2814-9278-43b9-ae08-ad9922582fb8)
 ![2023-07-03_19 03 51](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3f8addbd-feb5-4457-b421-2309974e9968)
 ![2023-07-03_19 04 19](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/3a491093-18c1-49ac-ad46-4f0721d59759)
 ![2023-07-03_19 04 53](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2d8edefe-592a-4b34-971d-380a6a1006c7)
