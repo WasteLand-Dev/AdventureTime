@@ -17,7 +17,7 @@
   },
   "inventoryLayout": {
     "enabled": true,
-    "direction": "LEFT_TO_RIGHT",
+    "direction": "TOP_TO_BOTTOM",
     "relativeToEnd": true,
     "thickness": 1,
     "collinearPadding": 4,

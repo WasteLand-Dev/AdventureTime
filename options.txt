@@ -33,7 +33,7 @@ highContrast:false
 gamma:0.9
 renderDistance:7
 simulationDistance:5
-entityDistanceScaling:2.0
+entityDistanceScaling:1.25
 guiScale:0
 particles:0
 maxFps:260
@@ -53,7 +53,7 @@ chatLineSpacing:0.25880281690140844
 textBackgroundOpacity:0.22711267605633803
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
