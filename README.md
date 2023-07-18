@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.1.5-Beta```
+```v0.1.6-Beta```
 ```1.20.1```
 
 ## About
@@ -14,27 +14,19 @@ We are an open community, always ready to help. We have our own discord server w
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
 ### Changelog:
-- Add Bookshelf
-- Update companion
-- Update extendeddrawers
-- Add Heartbond
-- Add Incendium
-- Add kiwi
-- Add Runelic
-- Add SnowRealMagic
-- Update TerraBlender
-- Add Advancementframes
-- Remove borderless-mining (fix bug on linux)
-- Add bushierflowers
-- Update cristellib
-- Update fpsdisplay
-- Add improved fire overlay
-- Update moonlight
-- Add repair gems
-- Add scorched
-- Update simplyswords
-- Update vmp
-- Add Water-Resistance-potion
+- Change configs
+- Add AdvancementPlaques
+- Add FogLooksGoodNow
+- Add iceberg
+- Add LegendaryTooltips
+- Add PingWheel
+- Add Prism
+- Add betteraddserver
+- Add desiredservers
+- Add doubledoors
+- Add FabricLanguageKotlin
+- Add InventoryTotem
+- Add Styled-chat
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
