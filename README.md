@@ -13,6 +13,9 @@ We are an open community, always ready to help. We have our own discord server w
 ## Perfomance
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
+## Community servers
+Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
+
 ### Changelog:
 - Change configs
 - Add AdvancementPlaques
@@ -84,4 +87,6 @@ Tip: use the latest version of fabric
 - [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
 - [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
 - Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
+- Simply Swords: ![Снимок экрана_2023-07-17_19-43-18](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/a9a7f0ca-7563-45a9-b124-7c7d51cd43d7)
+
 
