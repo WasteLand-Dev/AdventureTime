@@ -20,9 +20,9 @@
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
-	enabled = false
+	enabled = true
 	# (Default = 35) The average MSPT to target.
-	target_mspt = 50
+	target_mspt = 65
 	# (Default = 15) The amount of seconds between dynamic performance updates.
 	update_rate = 15
 	# (Default = 150) The amount of seconds between dynamic viewdistance updates.
