@@ -1,5 +1,5 @@
 # AdventureTime
-```v0.2.0-Beta```
+```v1.0.0-Release```
 ```1.20.1```
 
 ## About
@@ -17,17 +17,10 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Add Terralith
-- Update configs
-- Update BeaconOverhaul
-- Update Jade
-- Remove EnhancedBlockEntities (fix textures)
-- Update fpsdisplay
-- Update modernfix
+- Fix buggy textures
+- Update fabric-api
+- Update fabric-language-kotlin
 - Update moonlight
-- Remove ordinarycoins (fix trades)
-- Update resourcefullib
-- Remove sanguine
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
