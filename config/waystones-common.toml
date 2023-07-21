@@ -9,10 +9,10 @@ disableTextGlow = false
 [compatibility]
 
 # If enabled, JourneyMap waypoints will be created for each activated waystone.
-displayWaystonesOnJourneyMap = true
+displayWaystonesOnJourneyMap = false
 
 # If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
-preferJourneyMapIntegration = true
+preferJourneyMapIntegration = false
 
 [cooldowns]
 
@@ -69,13 +69,13 @@ dimensionalWarpDenyList = [  ]
 generatedWaystonesUnbreakable = false
 
 # Set to false to allow non-creative players to make waystones globally activated for all players.
-globalWaystoneSetupRequiresCreativeMode = true
+globalWaystoneSetupRequiresCreativeMode = false
 
 # List of leashed mobs that cannot be taken with you when teleporting
 leashedDenyList = [ "minecraft:wither" ]
 
 # If enabled, only the owner of a waystone (the one who placed it) can rename it.
-restrictRenameToOwner = false
+restrictRenameToOwner = true
 
 # If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.
 restrictToCreative = false

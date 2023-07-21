@@ -17,14 +17,14 @@
     "holdingUsableItem": "IfInteractable"
   },
   "color": {
-    "crosshairColor": "Unchanged",
+    "crosshairColor": "Green",
     "customColor": -5588020,
     "forceColor": false
   },
   "dynamicCrosshairStyle": true,
   "crosshairStyle": {
     "regular": {
-      "style": "Cross",
+      "style": "Caret",
       "color": {
         "crosshairColor": "Unchanged",
         "customColor": -5588020,
@@ -50,7 +50,7 @@
     "holdingTool": {
       "style": "Square",
       "color": {
-        "crosshairColor": "Unchanged",
+        "crosshairColor": "Cyan",
         "customColor": -5588020,
         "forceColor": false
       }
@@ -66,7 +66,7 @@
     "holdingRangedWeapon": {
       "style": "DiagonalCross",
       "color": {
-        "crosshairColor": "Unchanged",
+        "crosshairColor": "Yellow",
         "customColor": -5588020,
         "forceColor": false
       }

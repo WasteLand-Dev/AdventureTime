@@ -1,0 +1,137 @@
+{
+  "wandering_trader": {
+    "burn": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "heartbreak": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "plenty": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "mourner": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "danger": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "howl": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "prize": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "heart": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "miner": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "blade": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "sheaf": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "archer": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "explorer": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "friend": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "arms_up": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "angler": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "skull": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "snout": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    },
+    "brewer": {
+      "trade_enabled": true,
+      "base_emerald_cost": 24,
+      "max_uses": 4,
+      "villager_profession_exp": 1,
+      "price_multiplier": 0.5
+    }
+  }
+}
