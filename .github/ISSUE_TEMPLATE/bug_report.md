@@ -23,11 +23,14 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Logs**
+latest.log
+
 **Desktop (please complete the following information):**
- - OS: [e.g. Linux Arch]
- - Fabric version: [e.g. 0.14.8]
- - Minecraft version: [e.g. 1.19.1]
- - Version [e.g. 9.2.7.47-Release]
+ - OS: [e.g. Arch linux]
+ - Fabric version: [e.g. 0.14.21]
+ - Minecraft version: [e.g. 1.20.1]
+ - Version [e.g. 1.0.1-Release]
 
 **Additional context**
 Add any other context about the problem here.
