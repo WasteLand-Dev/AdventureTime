@@ -15,7 +15,7 @@ reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -126,6 +126,8 @@ key_key.arachnids.scope:key.keyboard.left.alt
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.unknown
+key_key.cavedust.toggle:key.keyboard.keypad.add
+key_key.cavedust.reload:key.keyboard.keypad.enter
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.keyboard.n
 key_key.entityculling.toggle:key.keyboard.unknown
