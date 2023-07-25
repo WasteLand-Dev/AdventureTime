@@ -1,5 +1,5 @@
 # AdventureTime
-```v1.0.2-Release```
+```v1.0.3-Release```
 ```1.20.1```
 
 ## About
@@ -17,22 +17,14 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Add FarmersDelight
-- Add highlight
-- Add cavedust
-- Update AdvancementPlaques
-- Update PuzzlesLib
-- Update Terralith
-- Remove capymod
-- Update continuity
+- Fix: Game not closing
+- Update WilderWild
 - Update emi
-- Update improved-fire-overlay
-- Update modernfix
-- Update moonlight
-- Remove plushables
-- Update scorched
-- Update trinkets
-- Update water-resistance-potion
+- Update explosive-enhancement
+- Update vmp
+- Update windchimes
+- Update yet another config lib
+- Temporary remove LostFeatures
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
