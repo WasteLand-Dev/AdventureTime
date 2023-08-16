@@ -1788,7 +1788,8 @@
       "toomanyorigins:small_appetite": true,
       "toomanyorigins:extra_step_height": true,
       "toomanyorigins:prevent_movement_checks": true,
-      "toomanyorigins:cancel_out_sprint_disable_on_hit": true
+      "toomanyorigins:cancel_out_sprint_disable_on_hit": true,
+      "toomanyorigins:frail": true
     },
     "origins-plus-plus:illusioner/illusioner_apprentice": {
       "enabled": true,
@@ -1943,7 +1944,8 @@
       "toomanyorigins:drainage": true,
       "toomanyorigins:hell_raised": true,
       "toomanyorigins:spirit_strider": true,
-      "toomanyorigins:deathly_digestion": true
+      "toomanyorigins:deathly_digestion": true,
+      "toomanyorigins:soul_siphon": true
     },
     "origins-plus-plus:war_god": {
       "enabled": true,

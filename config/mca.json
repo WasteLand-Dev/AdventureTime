@@ -124,6 +124,7 @@
   "allowLimitedPlayerEditor": true,
   "allowFullPlayerEditor": false,
   "allowPlayerSizeAdjustment": true,
+  "adjustPlayerEyesToHeight": true,
   "useModernUSANamesOnly": false,
   "guardsTargetEntities": {
     "minecraft:creeper": -1,

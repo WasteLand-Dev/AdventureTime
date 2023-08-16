@@ -10,5 +10,7 @@
   "_c1": "Enables syncing of non-polymer entries as polymer ones, when PolyMc is present",
   "polyMcSyncModdedEntries": true,
   "_c2": "Delay from last light updates to syncing it to clients, in ticks",
-  "lightUpdateTickDelay": 1
+  "lightUpdateTickDelay": 1,
+  "_c3": "Forcefully enables strict block updates, making client desyncs less likely to happen",
+  "force_strict_block_updates": false
 }
