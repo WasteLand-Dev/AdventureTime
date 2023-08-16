@@ -27,6 +27,9 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 ## Community servers
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
+## Additional content
+Install AmbientSounds
+
 ### Changelog:
 - Update all mods to latest version
 - Add SoundPhysicsRemastered
