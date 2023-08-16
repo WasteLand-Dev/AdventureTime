@@ -7,6 +7,17 @@ Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. A
 
 This modpack will give you a lot of emotions. Starting from realistic village mechanics: conversations, creating a family, professions, guards, ending with a space race and aliens! You also have to protect the earth from arachnids. But be careful with every mob: there is no hardcore bleeding mechanic in the modpack!
 
+### Can we go through the entire modpack?
+The modpack has no logical conclusion, but if you want to test yourself, there are several objectives:
+1. Achieve 70 per cent of the achievements related to the dungeons in the Overworld and Nether.
+2. Achieve all the achievements related with MCA
+3. Get the highest rank in the village
+4. Build a tower in a village with different zones
+4. Build a space base on every planet
+6. Get at least three legendary weapons.
+7. Search and explore dungeon with aliens
+8. Explore sculk deeps (dimension)
+
 ## Community
 We are an open community, always ready to help. We have our own discord server with a forum, a github page where you can leave noticed bugs or your suggestions.
 
