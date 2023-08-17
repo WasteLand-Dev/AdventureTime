@@ -1,0 +1,14 @@
+name = "Beacon Overhaul"
+filename = "BeaconOverhaul-1.8.2+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/v0cwu8bJ/versions/fL4m9afa/BeaconOverhaul-1.8.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "3ee2315b25d4a75e9a8c8e6a76f191b25b5b8891f1b7b5effcd6f6e27aadc566fb1010684d9a82a7e56aea1559ae657dc2e01de78fdd9ecfa92ecaf6beb0de72"
+
+[update]
+[update.modrinth]
+mod-id = "v0cwu8bJ"
+version = "fL4m9afa"

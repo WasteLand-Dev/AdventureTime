@@ -1,0 +1,14 @@
+name = "Mob Origins"
+filename = "moborigins-1.11.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SXwBmSQG/versions/ax5KXVHy/moborigins-1.11.1.jar"
+hash-format = "sha512"
+hash = "01f2d6afa2fe68d929e743e692dfcc71c4b65d454729ea22219ada9a4ea8c42d556ef26265b565c13c41b91f60c80b275c955988c19a361f55010ceeb667eb4d"
+
+[update]
+[update.modrinth]
+mod-id = "SXwBmSQG"
+version = "ax5KXVHy"

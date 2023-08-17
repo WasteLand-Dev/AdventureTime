@@ -1,0 +1,14 @@
+name = "Origins++"
+filename = "origins-plus-plus-2.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/npBe7UbS/versions/ukIJ1BFK/origins-plus-plus-2.1.1.jar"
+hash-format = "sha512"
+hash = "6b99de3551e02323d5415854d834a6b7eb6c49c9c1aa151983e3c30056373d555d89cf6ddea97c0ee6230bc850fe6075ce59f2087822896122a7843ba6cf2ffa"
+
+[update]
+[update.modrinth]
+mod-id = "npBe7UbS"
+version = "ukIJ1BFK"

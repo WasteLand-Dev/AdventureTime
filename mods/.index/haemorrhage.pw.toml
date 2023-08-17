@@ -1,0 +1,14 @@
+name = "Haemorrhage"
+filename = "imbleeding-4.0.5+1.20.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "92ddfdd78f526e9d47e1fae7488d344c5b37874b"
+
+[update]
+[update.curseforge]
+file-id = 4592871
+project-id = 676660

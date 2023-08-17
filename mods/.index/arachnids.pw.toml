@@ -1,0 +1,14 @@
+name = "Arachnids"
+filename = "arachnids-1.20.1-0.0.28.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/AOs8oaMT/versions/7LCStg1P/arachnids-1.20.1-0.0.28.jar"
+hash-format = "sha512"
+hash = "55e6741b87a894c58ce6c76ec0628d216689fe75cd8dd7e81aff6a4514cbcc206ea5d0cfb3686b9d4fae65975b31e8eca052cf9779c3f84223eecf2ac1b92990"
+
+[update]
+[update.modrinth]
+mod-id = "AOs8oaMT"
+version = "7LCStg1P"

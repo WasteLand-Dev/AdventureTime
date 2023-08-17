@@ -1,0 +1,14 @@
+name = "Snow! Real Magic! ⛄"
+filename = "SnowRealMagic-1.20.1-fabric-9.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iJNje1E8/versions/EXRFry9R/SnowRealMagic-1.20.1-fabric-9.0.0.jar"
+hash-format = "sha512"
+hash = "497cd1eab870b4562ad70f6bfd88aa2b460c301021fb9cf6f031d7c5580a070bfae8deee51d651422198e636891045bad0f59c32f0f0d49db7bca9e4830e729d"
+
+[update]
+[update.modrinth]
+mod-id = "iJNje1E8"
+version = "EXRFry9R"

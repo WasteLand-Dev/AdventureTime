@@ -1,0 +1,14 @@
+name = "Reimagined World Menu"
+filename = "reimaginedmenus-1.0.3-1.20.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/wtmnclgA/versions/hVcyeaxR/reimaginedmenus-1.0.3-1.20.x.jar"
+hash-format = "sha512"
+hash = "bc5c2b8706e0e1b8b4acafee8e2bf7416f2ab46c62c9e685eda8269968e0d95008c25b95da9d2c1151fd5085fd94c54cafd1007c95bbcfb05727f74c106f6476"
+
+[update]
+[update.modrinth]
+mod-id = "wtmnclgA"
+version = "hVcyeaxR"

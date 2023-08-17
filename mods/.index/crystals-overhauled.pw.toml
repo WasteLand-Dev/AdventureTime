@@ -1,0 +1,14 @@
+name = "Crystals Overhauled [Forge & Fabric]"
+filename = "crystals_overhauled_v1.2.3_1.20.1_FABRIC.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/F5ao3BYo/versions/XmvuR5j8/crystals_overhauled_v1.2.3_1.20.1_FABRIC.jar"
+hash-format = "sha512"
+hash = "fa2db6f34b13310520e4d31b0ccd44172f935d79064e3d24bb72182e47bee6cd034ec9130b2cd16d9c49277c4870ba1e4352086ebb50b17b536e889ac67e962d"
+
+[update]
+[update.modrinth]
+mod-id = "F5ao3BYo"
+version = "XmvuR5j8"

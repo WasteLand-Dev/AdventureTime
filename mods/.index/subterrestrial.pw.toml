@@ -1,0 +1,14 @@
+name = "Subterrestrial"
+filename = "subterrestrial-fabric-1.20-2.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UiVm8hgI/versions/b1KS0XDX/subterrestrial-fabric-1.20-2.2.0.jar"
+hash-format = "sha512"
+hash = "6b789c1cc2dec87d8941b079c83b3b7831fb6f60f4b859acfafbc3f0c2688b4aa69628169666db49968b7063ea7477c4a33bfdc5a1c4ba165d34a71f96fe5fd3"
+
+[update]
+[update.modrinth]
+mod-id = "UiVm8hgI"
+version = "b1KS0XDX"

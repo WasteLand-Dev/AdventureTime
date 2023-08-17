@@ -1,0 +1,14 @@
+name = "Geode+ [Forge/Fabric]"
+filename = "geodeplus-fabric-1.2.0-1.20.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "bb763616bdf8d12e5821e9dc99301da7fff453f1"
+
+[update]
+[update.curseforge]
+file-id = 4590943
+project-id = 620784

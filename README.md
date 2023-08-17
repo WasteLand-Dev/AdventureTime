@@ -1,5 +1,5 @@
 # AdventureTime
-```v1.1.0-Release```
+```v1.1.1-Release```
 ```1.20.1```
 
 ## About
@@ -29,16 +29,8 @@ Do you want to add your server to the official list of servers? Send us a messag
 
 ### Changelog:
 - Update all mods to latest version
-- Add SoundPhysicsRemastered
-- Add DisableCustomWorldsAdvice
-- Add ItemHighlighter
-- Add DoABarrelRoll
-- Add EmojiType
-- Add LogCleaner
-- Add expandedDelight
-- Add SkeletonHorseSpawn
-- Add couplings
-- Add DurabilityTooltip
+- Fix game crash
+- Fix world freezing
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

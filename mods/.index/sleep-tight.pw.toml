@@ -1,0 +1,14 @@
+name = "Sleep Tight"
+filename = "sleep_tight-1.20-1.1.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tNai0h2Y/versions/XDparl0X/sleep_tight-1.20-1.1.3-fabric.jar"
+hash-format = "sha512"
+hash = "46213bfd2734e102d449ca15d992300583ba3ce3b923b370bc4dcab4bf069fff2390fe0c5e49cc4484e7fe4d7ec3b12a8c5352efd124792dfa77e4559fa0fb4e"
+
+[update]
+[update.modrinth]
+mod-id = "tNai0h2Y"
+version = "XDparl0X"

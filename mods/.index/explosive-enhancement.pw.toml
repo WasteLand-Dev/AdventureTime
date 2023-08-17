@@ -1,0 +1,14 @@
+name = "Explosive Enhancement"
+filename = "explosive-enhancement-1.2.0-1.20.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OSQ8mw2r/versions/GgXnvMPU/explosive-enhancement-1.2.0-1.20.x.jar"
+hash-format = "sha512"
+hash = "e76d5f37d92c59b563686584c3f0a33abb17cbe8f8b532f97adb35e8f5f072cdf5c14f19849e7b531a9c179a7b53567bb5394466bf0f73965b6594161e6ff2b4"
+
+[update]
+[update.modrinth]
+mod-id = "OSQ8mw2r"
+version = "GgXnvMPU"

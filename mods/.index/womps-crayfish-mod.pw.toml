@@ -1,0 +1,14 @@
+name = "Womp's Crayfish Mod"
+filename = "crayfish-mod-1.34.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "eec5bbc68d415f5bc4cc32a54b5a61a64dce831b"
+
+[update]
+[update.curseforge]
+file-id = 4613129
+project-id = 561824

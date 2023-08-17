@@ -1,0 +1,14 @@
+name = "Conjuring"
+filename = "conjuring-1.0.28+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GriMtaoD/versions/xDF7ssCk/conjuring-1.0.28%2B1.20.jar"
+hash-format = "sha512"
+hash = "f77907e4633eac2f265408e4a34a4762471c8a2523999e4ad4977ea8ca578e7547078894670b178ace84de71f3b809f344b9eb5c0c9e6f4fd248d2b0133a2d3d"
+
+[update]
+[update.modrinth]
+mod-id = "GriMtaoD"
+version = "xDF7ssCk"

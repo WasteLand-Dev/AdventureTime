@@ -1,0 +1,14 @@
+name = "Dark Waters"
+filename = "dark-waters-1.20.1-0.0.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pe7gyI14/versions/AQUD77Sr/dark-waters-1.20.1-0.0.19.jar"
+hash-format = "sha512"
+hash = "a73c08dbeb810528f2fc337b3a8cec6d2a65b2c023954cc868037a423603724abe37ae68dcae5aec0caf09a808a690ea16109371fecb3116457317fc097eee7b"
+
+[update]
+[update.modrinth]
+mod-id = "pe7gyI14"
+version = "AQUD77Sr"

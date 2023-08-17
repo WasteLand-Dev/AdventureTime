@@ -1,0 +1,14 @@
+name = "Quality of Life (QoL) Fixes"
+filename = "qolfixes-3.0-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ui62rEr7/versions/pV5Lihy6/qolfixes-3.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "c96c8120fc01be6077cfe48a41c84bee7e941bf7a213f89f05027fa5b5e081db40d54f3afd5965c7612e92380a56c26a61a6848ad5f62ae90bb1c514ad55a3b5"
+
+[update]
+[update.modrinth]
+mod-id = "Ui62rEr7"
+version = "pV5Lihy6"

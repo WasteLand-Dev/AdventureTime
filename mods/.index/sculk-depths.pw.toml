@@ -1,0 +1,14 @@
+name = "Sculk Depths"
+filename = "sculk_depths-1.20.1-0.0.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IpnJiCsh/versions/OrKvtu6D/sculk_depths-1.20.1-0.0.7.jar"
+hash-format = "sha512"
+hash = "47d03968ae127dd2fa4a9f554fb4f3da6277db62b63efb3d56ae1626bb78de259ee1bbff517084b11ce0f4e19eb98e53dcebe82758cbb6bba88982eb92014072"
+
+[update]
+[update.modrinth]
+mod-id = "IpnJiCsh"
+version = "OrKvtu6D"

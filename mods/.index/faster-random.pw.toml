@@ -1,0 +1,14 @@
+name = "Faster Random"
+filename = "Fast Random - 1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/3kmT0uWD/Fast Random - 1.1.jar"
+hash-format = "sha512"
+hash = "df8336876dbeedb9ce6cd246d69aaa6f03ebc6d75e2e56fa3eb088a19d389e05e9fa4bfcb273d00e11f7cab35c27ad17985be4e69d3862148063156da7ead06d"
+
+[update]
+[update.modrinth]
+mod-id = "RfFxanNh"
+version = "3kmT0uWD"

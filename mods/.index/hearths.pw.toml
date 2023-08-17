@@ -1,0 +1,14 @@
+name = "Hearths"
+filename = "hearths-v1.0.0-mc1.20u1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/GzD0PHWn/hearths-v1.0.0-mc1.20u1.20.1.jar"
+hash-format = "sha512"
+hash = "44a5f24e1b4626dd7a347ecc4cc42c51be7c34dd77d27a3efe46977198c1ca11a07062224d814979fc95c8bc9e3a08ef628cd45c974fc9697f99c228a6737a56"
+
+[update]
+[update.modrinth]
+mod-id = "XCIMrYn0"
+version = "GzD0PHWn"

@@ -1,0 +1,14 @@
+name = "Alloy Forgery"
+filename = "alloy-forgery-2.0.22+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/jhl28YkY/versions/CDuKyCCF/alloy-forgery-2.0.22%2B1.20.jar"
+hash-format = "sha512"
+hash = "432ca2e0467cc1b9e8d9f994834b6d39631218f3d6d3983998e39048b19a962876a6643c75c12e0c4eb794c31e9e536aaa5fca6cdb387347cf0ed2dc47609ce7"
+
+[update]
+[update.modrinth]
+mod-id = "jhl28YkY"
+version = "CDuKyCCF"

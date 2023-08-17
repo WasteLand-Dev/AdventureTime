@@ -1,0 +1,14 @@
+name = "FastAnim"
+filename = "lunade-fastanim-1.6-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yHf7SALy/versions/5lHXCowj/lunade-fastanim-1.6-1.20.jar"
+hash-format = "sha512"
+hash = "6e4dca503f0952e18c07175d2281c8f2a2d8227939457646a8de0ce1ac72cf83861667f45e91c703629e1a9594c28ccc93cd3a74641ecf885fbcce5d10e13338"
+
+[update]
+[update.modrinth]
+mod-id = "yHf7SALy"
+version = "5lHXCowj"

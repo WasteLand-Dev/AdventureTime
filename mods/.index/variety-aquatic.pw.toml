@@ -1,0 +1,14 @@
+name = "Variety Aquatic"
+filename = "Variety_Aquatic-fabric-1.20-1.0.4.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "402227d326ab2ce518af75915edf9037ac81a9cd"
+
+[update]
+[update.curseforge]
+file-id = 4619515
+project-id = 834427
