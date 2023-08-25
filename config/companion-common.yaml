@@ -8,6 +8,7 @@ shoulderPets:
   dismountWhileFlying: false
   dismountInWater: false
 follow:
+  logIfTeleportingFailed: true
   petForceTeleportingIfFollowFailed: true
   petWontChangeDimensionUnlessOwnerIsNearbyRadius: 3.0
   portalMaxTeleportedPets: -1
