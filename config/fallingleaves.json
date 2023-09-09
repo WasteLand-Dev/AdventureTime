@@ -311,6 +311,78 @@
     "regions_unexplored:joshua_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "betterend:tenanea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:pythadendron_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:nether_sakura_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:dragon_tree_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:anchor_tree_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lucernia_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:willow_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:rubeus_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lacugrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:tenanea_outer_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:mossy_glowshroom_fur": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:glowing_pillar_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:cave_bush": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:amaranita_fur": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:helix_tree_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lucernia_outer_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:blue_vine_fur": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:umbrella_tree_membrane": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

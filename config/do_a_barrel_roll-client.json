@@ -1,5 +1,5 @@
 {
-  "format_version_do_not_edit": 1,
+  "format_version_do_not_edit": 2,
   "general": {
     "mod_enabled": true,
     "controls": {
@@ -8,7 +8,8 @@
       "momentum_based_mouse": false,
       "momentum_mouse_deadzone": 0.2,
       "show_momentum_widget": true,
-      "activation_behaviour": "VANILLA"
+      "activation_behaviour": "VANILLA",
+      "disable_when_submerged": true
     },
     "hud": {
       "show_horizon": false
@@ -16,7 +17,7 @@
     "banking": {
       "enable_banking": true,
       "banking_strength": 20.0,
-      "simulate_control_surface_efficacy": false
+      "simulate_control_surface_efficacy": true
     },
     "thrust": {
       "enable_thrust": false,
@@ -34,6 +35,11 @@
       "smoothing_pitch": 1.0,
       "smoothing_yaw": 0.4,
       "smoothing_roll": 1.0
+    },
+    "camera_smoothing": {
+      "pitch": 1.0,
+      "yaw": 2.5,
+      "roll": 1.0
     },
     "desktop": {
       "pitch": 1.0,

@@ -1,5 +1,5 @@
-# AdventureTime
-```v1.2.0-Release```
+# Traveller's Story
+```v1.2.1-Release```
 ```1.20.1```
 
 ## About
@@ -28,40 +28,51 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-#### This release maybe fix another world freeze
-#### Also, the new elytra mechanic is broken
-- Update Ad-Astra-Giselle-Addon
-- Update AdditionalBanners
-- Update ArchaeologyBanners
-- Remove Armorful
-- Update AttributeFix
-- Update BeaconOverhaul
+- Add bclib
+- Add betternether
+- Remove crystals_overhauled
+- Remove jeed
 - Update Bookshelf
-- Update Coins
-- Update Companion
-- Update DarkPaintings
 - Update ImmediatelyFast
-- Update Kiwi
-- Update Ping-Wheel
-- Update Runelic
-- Update stellarity
+- Update SmartBrainLib
+- Update Terralith
 - Update TooManyOrigins
-- Update altorigingui
+- Update WWOO
+- Update WilderWild
 - Update arachnids
 - Update azurelib
-- Remove bedrockwaters
+- Update betteraddserver
+- Update bounced
+- Update c2me
+- Update cherishedworlds
+- Update chunksfadein
+- Update ctov
 - Update do-a-barrel-roll
-- Update fabric-language-kotlin
-- Update farmers-delight
-- Update geckolib
+- Update dummmmmmy
+- Update dynamiccrosshair
+- Update explosive-enhancement
+- Update fabric-api
+- Update fallingleaves
+- Update frostiful
+- Update gigeresque
+- Update memoryleakfix
 - Update modernfix
+- Update modmenu
 - Update moonlight
+- Update mythicupgrades
+- Update origins-plus-plus
 - Update pearfection
-- Remove raknetify
+- Update reimaginedmenus
 - Update resourcefullib
+- Update scorched
+- Update sculk_depths
 - Update soundphysics
-- Update supermartijn642configlib
-- Update terrestria
+- Update thermoo
+- Update vmp
+- Update yet-another-config-lib
+- Update ComplementaryReimagined
+- Update VanillAA
+- Update SuperDuperVanilla
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

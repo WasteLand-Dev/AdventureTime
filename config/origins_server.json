@@ -1563,7 +1563,9 @@
       "origins-plus-plus:felvaxian/scavenger_pouch": true,
       "origins-plus-plus:felvaxian/soaring_wings": true,
       "origins-plus-plus:felvaxian/tigers_roar": true,
-      "origins-plus-plus:felvaxian/unholy_aura": true
+      "origins-plus-plus:felvaxian/unholy_aura": true,
+      "origins:elytra": true,
+      "origins:light_armor": true
     },
     "origins-plus-plus:voidling/supreme_voidborne": {
       "enabled": true,
@@ -1815,7 +1817,11 @@
       "origins-plus-plus:marshmallow/pyrophobia": true,
       "origins-plus-plus:marshmallow/resource": true,
       "origins-plus-plus:marshmallow/sink_in_water": true,
-      "origins-plus-plus:marshmallow/tiny": true
+      "origins-plus-plus:marshmallow/tiny": true,
+      "origins-plus-plus:marshmallow/melt_in_water": true,
+      "origins-plus-plus:marshmallow/sugar_level_1": true,
+      "origins-plus-plus:marshmallow/sugar_level_2": true,
+      "origins-plus-plus:marshmallow/sugar_level_3": true
     },
     "origins-plus-plus:warper": {
       "enabled": true,

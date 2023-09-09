@@ -16,6 +16,7 @@
 	"tumbleweed": {
 		"tumbleweedSpawnCap": 10,
 		"leashedTumbleweed": false,
+		"tumbleweedDestroysCrops": true,
 		"tumbleweedRotatesToLookDirection": false,
 	},
 	"warden": {
