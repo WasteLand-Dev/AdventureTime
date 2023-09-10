@@ -6,7 +6,7 @@
     "parse_links": true,
     "parse_mentions": false,
     "markdown": true,
-    "formatting_from_other_mods": false
+    "respect_colors_client_setting": true
   },
   "auto_completion": {
     "tags": false,

@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.2.1-Release```
+```v1.2.2-Release```
 ```1.20.1```
 
 ## About
@@ -28,51 +28,12 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Add bclib
-- Add betternether
-- Remove crystals_overhauled
-- Remove jeed
-- Update Bookshelf
+- Fix the new elytra mechanic
+- Update CullLessLeaves
 - Update ImmediatelyFast
-- Update SmartBrainLib
-- Update Terralith
-- Update TooManyOrigins
-- Update WWOO
-- Update WilderWild
-- Update arachnids
-- Update azurelib
-- Update betteraddserver
-- Update bounced
-- Update c2me
-- Update cherishedworlds
-- Update chunksfadein
-- Update ctov
-- Update do-a-barrel-roll
-- Update dummmmmmy
-- Update dynamiccrosshair
-- Update explosive-enhancement
-- Update fabric-api
-- Update fallingleaves
-- Update frostiful
+- Update cristellib
 - Update gigeresque
-- Update memoryleakfix
-- Update modernfix
-- Update modmenu
-- Update moonlight
-- Update mythicupgrades
-- Update origins-plus-plus
-- Update pearfection
-- Update reimaginedmenus
-- Update resourcefullib
-- Update scorched
-- Update sculk_depths
-- Update soundphysics
-- Update thermoo
-- Update vmp
-- Update yet-another-config-lib
-- Update ComplementaryReimagined
-- Update VanillAA
-- Update SuperDuperVanilla
+- Update styled-chat
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
