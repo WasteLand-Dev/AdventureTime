@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.2.2-Release```
+```v1.2.3-Release```
 ```1.20.1```
 
 ## About
@@ -28,12 +28,8 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Fix the new elytra mechanic
-- Update CullLessLeaves
-- Update ImmediatelyFast
-- Update cristellib
-- Update gigeresque
-- Update styled-chat
+- Update ComplementaryReimagined
+- Add ComplementaryUnbound
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
