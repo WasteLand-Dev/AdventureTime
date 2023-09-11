@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.2.4-Release```
+```v1.2.5-Release```
 ```1.20.1```
 
 ## About
@@ -28,16 +28,11 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Add Trigger-Happy
-- Add YungsApi
-- Add YungsBetterDesertTemples
-- Add YungsBetterDungeons
-- Add YungsBetterNetherFortresses
-- Add YungsBetterOceanMonuments
-- Add YungsBetterWitchHuts
-- Add YungsBridges
-- Add YungsExtras
-- Put new logo
+- Fix dublication of ping wheel
+- Update dark-waters
+- Update gigeresque
+- Update minecraft-comes-alive
+- Update moonlight
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
