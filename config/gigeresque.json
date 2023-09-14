@@ -1,5 +1,7 @@
 {
   "enableDevparticles": false,
+  "enableSneakyEggs": false,
+  "blackfuildNonrepacle": false,
   "facehuggerGivesBlindness": true,
   "alienblockHardness": 3.0,
   "alienblockResistance": 6.0,

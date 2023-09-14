@@ -32,10 +32,10 @@ damageTiltStrength:1.0
 highContrast:false
 gamma:0.9
 renderDistance:10
-simulationDistance:7
-entityDistanceScaling:1.25
+simulationDistance:15
+entityDistanceScaling:1.0
 guiScale:0
-particles:0
+particles:1
 maxFps:260
 graphicsMode:1
 ao:true
