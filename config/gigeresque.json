@@ -11,6 +11,7 @@
   "chestbursterGrowthMultiplier": 1.0,
   "eggmorphTickTimer": 6000.0,
   "facehuggerAttachTickTimer": 4800.0,
+  "facehuggerStunTickTimer": 60,
   "impregnationTickTimer": 9600.0,
   "sporeTickTimer": 4800,
   "runnerAlienGrowthMultiplier": 1.0,

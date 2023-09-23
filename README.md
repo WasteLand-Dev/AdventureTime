@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.2.6-Release```
+```v1.3.0-Release```
 ```1.20.1```
 
 ## About
@@ -28,13 +28,46 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Update wwoo
+#### This update can break your world!
+#### Fix old world freeze
+- Remove terralith
+- Remove Iris
+- Remove shaders
+- Update AdditionalStructures
+- Update ArchaeologyBanners
+- Update CleanF3
+- Update ImmediatelyFast
+- Update WilderWild
+- Update YungsBetterDesertTemples
+- Update YungsBetterDungeons
+- Update YungsBetterNetherFortresses
+- Update YungsBetterOceanMonuments
+- Update YungsBetterWitchHuts
+- Update YungsBridges
+- Update YungsExtras
+- Update azurelib
 - Update balm
 - Update c2me
+- Update cat_jam
+- Update chunksfadein
+- Update collective
+- Update do-a-barrel-roll
+- Update durabilitytooltip
+- Update emi
+- Update entityculling
+- Update fabric-api
+- Update fabricskyboxes
+- Update geckolib
 - Update gigeresque
-- Update mavapi
-- Update waystones
-- Change options.txt
+- Update graves
+- Remove hashs-falcons
+- Update indium
+- Update moonlight
+- Update origins-plus-plus
+- Update sodium
+- Update spyglass_astronomy
+- Update visuality
+- Update vmp
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

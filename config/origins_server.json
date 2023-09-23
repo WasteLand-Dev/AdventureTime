@@ -737,7 +737,8 @@
       "origins-plus-plus:pixie/pixie_dust": true,
       "origins-plus-plus:pixie/reach": true,
       "origins-plus-plus:pixie/sound": true,
-      "origins-plus-plus:pixie/speed": true
+      "origins-plus-plus:pixie/speed": true,
+      "origins-plus-plus:pixie/no_fireworks": true
     },
     "origins:phantom": {
       "enabled": true,
@@ -1150,7 +1151,9 @@
       "origins-plus-plus:shadow/night_vision": true,
       "origins-plus-plus:shadow/no_food": true,
       "origins-plus-plus:shadow/shadow_storage": true,
-      "origins-plus-plus:shadow/sun_weakness": true
+      "origins-plus-plus:shadow/sun_weakness": true,
+      "origins-plus-plus:shadow/behind_you": true,
+      "origins-plus-plus:shadow/fragile": true
     },
     "origins-plus-plus:goolien": {
       "enabled": true,
@@ -2368,6 +2371,25 @@
       "origins-plus-plus:snake/health": true,
       "origins-plus-plus:snake/intimidate": true,
       "origins-plus-plus:snake/lunge": true
+    },
+    "origins-plus-plus:birb": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:more_kinetic_damage": true,
+      "origins:no_shield": true,
+      "origins-plus-plus:birb/almost_no_armor": true,
+      "origins-plus-plus:birb/feather_grip": true,
+      "origins-plus-plus:birb/feather_grip_spectral": true,
+      "origins-plus-plus:birb/granivore": true,
+      "origins-plus-plus:birb/jockey": true,
+      "origins-plus-plus:birb/launch": true,
+      "origins-plus-plus:birb/love_air": true,
+      "origins-plus-plus:birb/more_air_damage": true,
+      "origins-plus-plus:birb/no_food": true,
+      "origins-plus-plus:birb/small": true,
+      "origins-plus-plus:birb/smaller_appetite": true,
+      "origins-plus-plus:birb/smaller_body": true,
+      "origins-plus-plus:birb/tweet": true
     }
   }
 }

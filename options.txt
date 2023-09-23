@@ -36,7 +36,7 @@ simulationDistance:15
 entityDistanceScaling:1.0
 guiScale:0
 particles:1
-maxFps:260
+maxFps:60
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:2
@@ -141,6 +141,7 @@ key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.s
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
 key_key.fpsdisplay.toggleOverlay:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
@@ -159,9 +160,6 @@ key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.f9
 soundCategory_master:0.7086092715231788
 soundCategory_music:0.5598591549295775
 soundCategory_record:0.20598591549295775
