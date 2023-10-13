@@ -36,7 +36,7 @@ simulationDistance:15
 entityDistanceScaling:1.0
 guiScale:0
 particles:1
-maxFps:60
+maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:2
@@ -161,7 +161,7 @@ key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.unknown
 soundCategory_master:0.7086092715231788
-soundCategory_music:0.5598591549295775
+soundCategory_music:0.2676056338028169
 soundCategory_record:0.20598591549295775
 soundCategory_weather:0.30985915492957744
 soundCategory_block:1.0

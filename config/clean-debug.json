@@ -5,11 +5,13 @@
   "hideDebugHints": true,
   "shyFluids": true,
   "hideHelpShortcut": true,
+  "hideNoiseRouter": true,
   "hideSodium": true,
-  "hideIris": true,
+  "hideIris": false,
   "hideLitematica": false,
   "hideEntityCulling": true,
   "hideViaFabric": false,
   "hidePresenceFootsteps": true,
-  "hideDistantHorizons": false
+  "hideDistantHorizons": false,
+  "hideModernFix": true
 }

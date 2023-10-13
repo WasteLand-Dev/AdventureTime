@@ -18,371 +18,463 @@
   "leafSettings": {
     "minecraft:jungle_leaves": {
       "spawnRateFactor": 0.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:flowering_azalea_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:mangrove_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:azalea_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:birch_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:acacia_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:oak_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:dark_oak_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:spruce_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": true
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": false
     },
     "minecraft:cherry_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:rubber_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:palm_leaves": {
       "spawnRateFactor": 0.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:sakura_leaves": {
       "spawnRateFactor": 1.4,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:redwood_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": true
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": false
     },
     "terrestria:japanese_maple_shrub_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:rainbow_eucalyptus_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:cotton_sakura_blossoms": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:blush_sakura_blossoms": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "wilderwild:cypress_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:fulvous_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "ad_astra:glacian_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:yucca_palm_leaves": {
       "spawnRateFactor": 0.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:hemlock_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": true
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": false
     },
     "promenade:vermilion_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:cypress_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": true
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": false
     },
     "terrestria:dark_japanese_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:japanese_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:sap_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "wilderwild:baobab_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "sculk_depths:valtrox_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:mikado_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "promenade:snowy_spruce_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:willow_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "terrestria:jungle_palm_leaves": {
       "spawnRateFactor": 0.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "wilderwild:palm_fronds": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "minecraft:warped_wart_block": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "simplemango:mango_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:spiced_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:damnation_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:liroth_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "snifferplus:stone_pine_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:japz_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:tallpier_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "liroth:koolaw_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "lostfeatures:baobab_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "pearfection:flowering_callery_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "pearfection:callery_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:sculkwood_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:golden_larch_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:redwood_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:palm_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:alpha_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:cypress_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:mauve_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:willow_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:white_cherry_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:blackwood_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:red_cherry_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:pine_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:pink_cherry_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:baobab_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:orange_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:eucalyptus_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:silver_birch_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:red_maple_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:apple_oak_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:cherry_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:larch_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:flowering_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:dead_pine_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:dead_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:bamboo_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "regions_unexplored:joshua_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:tenanea_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:pythadendron_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betternether:nether_sakura_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:dragon_tree_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betternether:anchor_tree_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:lucernia_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betternether:willow_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betternether:rubeus_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:lacugrove_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:tenanea_outer_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:mossy_glowshroom_fur": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:glowing_pillar_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:cave_bush": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:amaranita_fur": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:helix_tree_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:lucernia_outer_leaves": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:blue_vine_fur": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     },
     "betterend:umbrella_tree_membrane": {
       "spawnRateFactor": 1.0,
-      "isConiferBlock": false
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
     }
   },
   "leafSpawners": [],

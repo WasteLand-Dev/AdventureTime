@@ -3,5 +3,9 @@
 	"damage_hemlock": true,
 	"damage_oenothera": true,
 	"teleport_ROTW": true,
-	"explosion_oriental_poppy": true
+	"explosion_oriental_poppy": true,
+	"regen_chrysanthemum": true,
+	"still_asters": true,
+	"sound_crocus": true,
+	"nether_velvets": true
 }
