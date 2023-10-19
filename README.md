@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.3.2-Release```
+```v1.4.0-Release```
 ```1.20.1```
 
 ## About
@@ -28,43 +28,22 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-## This update fix many bugs and speed up world generating
-- Update AdditionalBanners
-- Update Bookshelf-Fabric
-- Update DarkPaintings
+#### Warning! This version is incompatible with older ones
+#### Maybe final chunk loading fix!
+#### New massive dungeon: Mechanical Nest!
+#### Now work on latest fabric version.
+- New loading screen
+- Update configs
+- Update CreativeCore
+- Update DungeonsArise
 - Update ExtendedDrawers
-- Update ImmediatelyFast
-- Update ManyFlowers
-- Update Towns-and-Towers
-- Update UsefulSlime
 - Update WilderWild
-- Update YungsBetterNetherFortresses
-- Update ad_astra
-- Update appleskin
-- Update arachnids
-- Add architectury
-- Update azurelib-fabric
-- Update bettercombat
 - Update betterstats
-- Update bounced
-- Update cat_jam
-- Update continuity
-- Update dark-waters
-- Update do-a-barrel-roll
-- Update dynamiccrosshair
-- Update emi
-- Update extraorigins
-- Update fabric-api
-- Update fallingleaves
+- Update comforts
+- Update explosive-enhancement
 - Update gigeresque
-- Update modernfix
 - Update moonlight
-- Update promenade
-- Update simplyswords
-- Update sleep_tight
-- Update supermartijn642configlib
-- Update thermoo
-- Update yet-another-config-lib
+- Remove (maybe temporary) mythicupgrades
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

@@ -19,6 +19,8 @@
   "attempt_better_small_explosions": true,
   "small_explosion_y_offset": -0.5,
   "mod_enabled": true,
+  "emissive_explosion": true,
+  "emissive_water_explosion": true,
   "always_show": false,
   "debug_logs": false
 }
