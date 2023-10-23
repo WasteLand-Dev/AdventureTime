@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.4.2-Release```
+```v1.5.0-Release```
 ```1.20.1```
 
 ## About
@@ -28,17 +28,19 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Remove gigeresque
-- Remove lunade-fastanim
-- Remove ImmediatelyFast
-- Update Bookshelf
-- Update DarkPaintings
-- Update fabric-api
-- Update ferritecore
-- Update frostiful
-- Update resourcefullib
-- Update spyglass_astronomy
-- Update sleep_tight
+#### Warning! This version is incompatible with older ones
+#### Final chunk loading fix!
+#### New hostile mobs mechanics
+#### New hardcore biome
+#### Fix issues with graves
+- Fix "do a barrel roll not installed"
+- Turn back immediatelyFast
+- Update SnowRealMagic
+- Remove WilderWild
+- Update arachnids
+- Add desolation
+- Remove graves
+- Add upgraded mobs
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
