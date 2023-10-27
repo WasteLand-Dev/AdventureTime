@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.5.0-Release```
+```v1.5.1-Release```
 ```1.20.1```
 
 ## About
@@ -28,19 +28,20 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-#### Warning! This version is incompatible with older ones
-#### Final chunk loading fix!
-#### New hostile mobs mechanics
-#### New hardcore biome
-#### Fix issues with graves
-- Fix "do a barrel roll not installed"
-- Turn back immediatelyFast
-- Update SnowRealMagic
-- Remove WilderWild
-- Update arachnids
-- Add desolation
-- Remove graves
-- Add upgraded mobs
+#### Fix another issue caused by c2me and MCA
+#### Fix player desync caused by vmp
+- Update Ambientsounds
+- Update CreativeCore
+- Update PresenceFootsteps
+- Update PuzzlesLib
+- Update bettercombat
+- Remove c2me
+- Remove cherishedworlds
+- Update dummmmmmy
+- Update dynamiccrosshair
+- Update simplyswords
+- Update sleep_tight
+- Remove vmp
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

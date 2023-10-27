@@ -19,6 +19,7 @@
   "misc": {
     "show_insomnia_timer": true,
     "crossair_insomnia_cooldown": true,
-    "show_time_when_sleeping": true
+    "show_time_when_sleeping": true,
+    "sleeping_villagers_eyes": true
   }
 }
