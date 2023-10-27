@@ -36,7 +36,7 @@ Do you want to add your server to the official list of servers? Send us a messag
 - Update PuzzlesLib
 - Update bettercombat
 - Remove c2me
-- Remove cherishedworlds
+- Update cherishedworlds
 - Update dummmmmmy
 - Update dynamiccrosshair
 - Update simplyswords
