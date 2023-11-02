@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.5.3-Release```
+```v1.5.4-Release```
 ```1.20.1```
 
 ## About
@@ -28,18 +28,21 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Update Incendium
-- Update ManyFlowers
-- Update Pehkui
-- Update PuzzlesLib
-- Update collective
-- Update ctov
-- Update eating-animation
-- Update geckolib
-- Update indium
-- Update modernfix
+- Change some configs
+- Update arachnids
+- Update azurelib
+- Update bettercombat
+- Update betterstats
+- Update botarium
+- Update dark-waters
+- Update fabric-api
+- Update fabric-language-kotlin
+- Update frostiful
+- Update minecraft-comes-alive
 - Update moonlight
-- Update servercore
+- Update mru
+- Update terrestria
+- Update thermoo
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

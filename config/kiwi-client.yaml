@@ -7,4 +7,4 @@ debug:
   tagsTooltip: false
   debugTooltipMsg: false
   NBTTooltip: false
-suppressExperimentalSettingsWarning: false
+suppressExperimentalSettingsWarning: true

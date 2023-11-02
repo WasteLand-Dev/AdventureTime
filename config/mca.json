@@ -78,7 +78,7 @@
   "adventurerStayTime": 48000,
   "villagerProcreationChancePerMinute": 0.05,
   "bountyHunterInterval": 48000,
-  "bountyHunterHeartsInterval": -150,
+  "bountyHunterHearts": -150,
   "innSpawnsAdventurers": true,
   "innSpawnsCultists": true,
   "innSpawnsWanderingTraders": true,
@@ -216,7 +216,8 @@
     "HETEROCHROMIA": true,
     "ELECTRIFIED": true,
     "COELIAC_DISEASE": true,
-    "DWARFISM": true
+    "DWARFISM": true,
+    "UNKNOWN": true
   },
   "taxesMap": {
     "minecraft:emerald": 1.0

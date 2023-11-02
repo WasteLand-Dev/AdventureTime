@@ -14,7 +14,7 @@
 	// If true, shows estimated health restored by food on the health bar
 	"showFoodHealthHudOverlay": true,
 	// If true, shows your hunger, saturation, and exhaustion level in Debug Screen
-	"showFoodDebugInfo": true,
+	"showFoodDebugInfo": false,
 	// If true, health/hunger overlay will shake to match Minecraft's icon animations
 	"showVanillaAnimationsOverlay": true,
 	// Alpha value of the flashing icons at their most visible point (1.0 = fully opaque, 0.0 = fully transparent)

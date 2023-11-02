@@ -9,7 +9,7 @@
   },
   "updateConfig": {
     "currentConfigVersion": 2,
-    "enableConfigUpdates": true
+    "enableConfigUpdates": false
   },
   "environmentConfig": {
     "doDryBiomeNightFreezing": true,

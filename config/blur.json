@@ -5,8 +5,12 @@
     "ai.arcblroth.projectInception.client.InceptionInterfaceScreen"
   ],
   "fadeTimeMillis": 350,
+  "fadeOutTimeMillis": 200,
+  "ease": true,
   "radius": 8,
-  "gradientStartColor": 75000000,
-  "gradientEndColor": 75000000,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 75,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 75,
   "showScreenTitle": false
 }

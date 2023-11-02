@@ -6,8 +6,8 @@ snowAlwaysReplaceable: true
 thinnerBoundingBox: true
 snowNeverMelt: false
 snowReduceFallDamage: true
-sustainGrassIfLayerMoreThanOne: true
-sneakSnowball: true
+sustainGrassIfLayerMoreThanOne: false
+sneakSnowball: false
 mobSpawningMaxLayers: 8
 snow-cover:
   replaceWorldgenFeature: true
