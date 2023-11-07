@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.5.4-Release```
+```v1.5.5-Release```
 ```1.20.1```
 
 ## About
@@ -21,6 +21,10 @@ The modpack has no logical conclusion, but if you want to test yourself, there a
 ## Community
 We are an open community, always ready to help. We have our own discord server with a forum, a github page where you can leave noticed bugs or your suggestions.
 
+## Steam deck and controllers compatibility
+- Use [Controlify](https://modrinth.com/mod/controlify)
+- Controlify comes with a huge range of settings to fine-tune each of your controllers individually, including vibration strength, every single controller input bind (no hardcoding!) and more.
+
 ## Perfomance
 We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playing on server. And quad core cpu is strongly recommended.
 
@@ -28,21 +32,15 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Change some configs
-- Update arachnids
-- Update azurelib
-- Update bettercombat
-- Update betterstats
-- Update botarium
-- Update dark-waters
-- Update fabric-api
-- Update fabric-language-kotlin
-- Update frostiful
-- Update minecraft-comes-alive
+- Update AttributeFix
+- Update Ping-Wheel
+- Update PuzzlesLib
+- Update collective
+- Update emi
+- Update fastrandom
+- Update modernfix
 - Update moonlight
-- Update mru
-- Update terrestria
-- Update thermoo
+- Update snow-under-trees
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

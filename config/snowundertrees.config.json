@@ -1,7 +1,7 @@
 {
 	"enableBiomeFeature": true,
 	"enableWhenSnowing": true,
-	"filteredBiomes": [
+	"supportedBiomes": [
 		"minecraft:snowy_plains",
 		"minecraft:ice_spikes",
 		"minecraft:snowy_taiga",
