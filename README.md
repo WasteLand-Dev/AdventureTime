@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.5.5-Release```
+```v1.6.0-Release```
 ```1.20.1```
 
 ## About
@@ -32,15 +32,13 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- Update AttributeFix
-- Update Ping-Wheel
-- Update PuzzlesLib
+#### Soviet deco update
 - Update collective
-- Update emi
 - Update fastrandom
 - Update modernfix
-- Update moonlight
-- Update snow-under-trees
+- New! Add new soviet
+- Update resourcefullib
+- Update terrestria
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
