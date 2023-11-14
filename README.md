@@ -7,6 +7,10 @@ Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. A
 
 This modpack will give you a lot of emotions. Starting from realistic village mechanics: conversations, creating a family, professions, guards, ending with a space race and aliens! You also have to protect the earth from arachnids. But be careful with every mob: there is no hardcore bleeding mechanic in the modpack!
 
+## Warning!
+#### Turn off the "Use custom end biome source" as shown in the screenshot
+![1t](https://github.com/WasteLand-Dev/Traveller-s-Story/assets/76490476/6da5e6fc-8559-4f03-a8d8-a0d4d0f5e82e) ![2t](https://github.com/WasteLand-Dev/Traveller-s-Story/assets/76490476/70fe085a-a2b8-4451-9b8e-e513b035a62e) ![3t](https://github.com/WasteLand-Dev/Traveller-s-Story/assets/76490476/47a9d860-80c6-43d6-8ccf-68294117a95c)
+
 ### Can we go through the entire modpack?
 The modpack has no logical conclusion, but if you want to test yourself, there are several objectives:
 1. Achieve 70 per cent of the achievements related to the dungeons in the Overworld and Nether.
