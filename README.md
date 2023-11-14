@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.6.0-Release```
+```v1.6.1-Release```
 ```1.20.1```
 
 ## About
@@ -36,13 +36,31 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-#### Soviet deco update
+- New! Add squidnoglitch
+- New! Add emiffect-fabric
+- New! Add extra-advancements
+- Update AmbientSounds
+- Update CreativeCore
+- Update ExtendedDrawers
+- Update ImmediatelyFast
+- Update azurelib
+- Update bettercombat
+- Update betterstats
+- Update cinderscapes
 - Update collective
-- Update fastrandom
+- Update cristellib
+- Update do-a-barrel-roll
+- Update expanded_ecosphere
+- Update grabbymobs
+- Update inventorytotem
 - Update modernfix
-- New! Add new soviet
+- Update moonlight
+- Update netherportalspread
+- Update refined-advancements
 - Update resourcefullib
-- Update terrestria
+- Update skeletalremains
+- Update skeletonhorsespawn
+- Update spidersproducewebs
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
