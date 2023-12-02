@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.6.1-Release```
+```v1.7.0-Release```
 ```1.20.1```
 
 ## About
@@ -36,31 +36,35 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- New! Add squidnoglitch
-- New! Add emiffect-fabric
-- New! Add extra-advancements
+- New! Add charmonium
 - Update AmbientSounds
+- Update AttributeFix
+- Update CleanF3
 - Update CreativeCore
-- Update ExtendedDrawers
-- Update ImmediatelyFast
+- Update ManyFlowers
+- Update Patchouli
+- Update Ping-Wheel
+- Update PuzzlesLib
+- Update SnowRealMagic
+- Update UsefulSlime
+- Update YungsBetterOceanMonuments
+- Update ad_astra
+- Update alloy-forgery
 - Update azurelib
-- Update bettercombat
+- Update betterarcheology
 - Update betterstats
-- Update cinderscapes
 - Update collective
-- Update cristellib
-- Update do-a-barrel-roll
-- Update expanded_ecosphere
-- Update grabbymobs
-- Update inventorytotem
-- Update modernfix
+- Update dummmmmmy
+- Update emi
+- Update emiffect
+- Update fabric-api
+- Update fabric-language-kotlin
 - Update moonlight
-- Update netherportalspread
-- Update refined-advancements
+- Update mythicmetals (Alpha)
+- Update owo
 - Update resourcefullib
-- Update skeletalremains
-- Update skeletonhorsespawn
-- Update spidersproducewebs
+- Update sleep_tight
+
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

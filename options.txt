@@ -32,7 +32,7 @@ damageTiltStrength:1.0
 highContrast:false
 gamma:0.9
 renderDistance:10
-simulationDistance:15
+simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:0
 particles:1
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","$polymer-resources","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","moreberries:modifiedsweetberrybushmodel","tinyskeletons"]
+resourcePacks:["vanilla","fabric","$polymer-resources","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","moreberries:modifiedsweetberrybushmodel","presencefootsteps:default_sound_pack"]
 incompatibleResourcePacks:[]
 lastServer:7.tcp.eu.ngrok.io:11344
 lang:ru_ru
@@ -63,7 +63,7 @@ chatHeightUnfocused:0.38028169014084506
 chatScale:0.8098591549295775
 chatWidth:0.8045774647887324
 notificationDisplayTime:1.0
-mipmapLevels:1
+mipmapLevels:2
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -121,13 +121,14 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.arachnids.scope:key.keyboard.left.alt
 key_key.azurelib.reload:key.keyboard.r
-key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.feint:key.keyboard.c
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.unknown
 key_key.cavedust.reload:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.keyboard.n
+key_key.desolation.cinder_dash:key.keyboard.v
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
@@ -159,8 +160,8 @@ key_ping-wheel.key.mark-location:key.mouse.middle
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.things.place_item:key.keyboard.j
-key_key.things.openenderchest:key.keyboard.unknown
-soundCategory_master:0.7086092715231788
+key_key.things.openenderchest:key.keyboard.i
+soundCategory_master:0.9056291390728477
 soundCategory_music:0.2676056338028169
 soundCategory_record:0.20598591549295775
 soundCategory_weather:0.30985915492957744
@@ -168,7 +169,7 @@ soundCategory_block:1.0
 soundCategory_hostile:0.2746479
 soundCategory_neutral:0.3538732394366197
 soundCategory_player:0.9049295774647887
-soundCategory_ambient:0.43309859154929575
+soundCategory_ambient:0.5563380281690141
 soundCategory_voice:0.5088028169014085
 modelPart_cape:true
 modelPart_jacket:false

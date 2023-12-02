@@ -2,10 +2,15 @@
   "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "hammock": {
     "animation": true,
-    "oscillation_frequency": 0.25,
-    "max_angle": 100.0,
-    "min_angle": 5.0,
-    "damping": 0.2,
+    "animation_parameters": {
+      "frequency": 0.25,
+      "collision_considers_entity_hitbox": true,
+      "collision_inertia": 1.0,
+      "collision_force": 1.0,
+      "min_angle": 4.9999995,
+      "max_angle": 99.99999,
+      "damping": 0.2
+    },
     "swing_force": 0.008,
     "camera_roll_intensity": 1.0,
     "hammock_fall": true
