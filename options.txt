@@ -121,6 +121,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.arachnids.scope:key.keyboard.left.alt
 key_key.azurelib.reload:key.keyboard.r
+key_key.azurelib.scope:key.keyboard.left.alt
+key_key.azurelib.fire:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.c
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.unknown
@@ -161,6 +163,7 @@ key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.i
+key_key.things.toggle_socks_jump_boost:key.keyboard.caps.lock
 soundCategory_master:0.9056291390728477
 soundCategory_music:0.2676056338028169
 soundCategory_record:0.20598591549295775
@@ -172,9 +175,9 @@ soundCategory_player:0.9049295774647887
 soundCategory_ambient:0.5563380281690141
 soundCategory_voice:0.5088028169014085
 modelPart_cape:true
-modelPart_jacket:false
-modelPart_left_sleeve:false
-modelPart_right_sleeve:false
-modelPart_left_pants_leg:false
-modelPart_right_pants_leg:false
-modelPart_hat:false
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true

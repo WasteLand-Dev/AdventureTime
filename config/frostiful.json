@@ -24,7 +24,9 @@
     "powderSnowFreezeRate": 30,
     "warmthPerLightLevel": 2,
     "minLightForWarmth": 5,
-    "ultrawarmWarmRate": 15
+    "ultrawarmWarmRate": 15,
+    "winterTemperatureShift": -1,
+    "isNightColdInSummer": false
   },
   "combatConfig": {
     "doChillagerPatrols": true,
@@ -70,7 +72,8 @@
     "heatFromHotFloor": 12,
     "shiverBelow": -0.51,
     "shiverWarmth": 1,
-    "stopShiverWarmingBelowFoodLevel": 10
+    "stopShiverWarmingBelowFoodLevel": 10,
+    "warmFoodWarmthTime": 1200
   },
   "icicleConfig": {
     "iciclesFormInWeather": true,

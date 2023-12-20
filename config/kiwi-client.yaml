@@ -6,5 +6,6 @@ noMicrosoftTelemetry: true
 debug:
   tagsTooltip: false
   debugTooltipMsg: false
+  tagsPerPage: 6
   NBTTooltip: false
 suppressExperimentalSettingsWarning: true

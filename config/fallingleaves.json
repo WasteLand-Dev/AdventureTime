@@ -485,6 +485,11 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": true
+    },
+    "deeperdarker:echo_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],

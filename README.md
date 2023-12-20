@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.7.0-Release```
+```v1.8.0-Release```
 ```1.20.1```
 
 ## About
@@ -36,35 +36,52 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- New! Add charmonium
-- Update AmbientSounds
-- Update AttributeFix
-- Update CleanF3
-- Update CreativeCore
-- Update ManyFlowers
+- New! Add Deeper and Darker
+- New! Add difficultylock
+- Remove sculk deeps
+- Update Bookshelf
+- Update ExtendedDrawers
+- Update Iceberg
+- Update ImmediatelyFast
+- Update Incendium
+- Update Kiwi
+- Update LunaSlimes
 - Update Patchouli
-- Update Ping-Wheel
 - Update PuzzlesLib
 - Update SnowRealMagic
-- Update UsefulSlime
-- Update YungsBetterOceanMonuments
-- Update ad_astra
+- Update TooManyOrigins
+- Update Towns-and-Towers
 - Update alloy-forgery
 - Update azurelib
-- Update betterarcheology
+- Update balm
 - Update betterstats
+- Update cherishedworlds
+- Update cinderscapes
 - Update collective
-- Update dummmmmmy
+- Update conjuring
+- Update deeperdarker
+- Update desolation
+- Update eating-animation
 - Update emi
-- Update emiffect
-- Update fabric-api
-- Update fabric-language-kotlin
-- Update moonlight
-- Update mythicmetals (Alpha)
-- Update owo
+- Update emoji-type
+- Update extraorigins
+- Update farmers-delight
+- Update fastrandom
+- Update fish_of_thieves
+- Update frostiful
+- Update geckolib
+- Update grabbymobs
+- Update inventorytotem
+- Update modernfix
+- Update netherportalspread
 - Update resourcefullib
+- Update skeletonhorsespawn
 - Update sleep_tight
-
+- Update soundphysics
+- Update spidersproducewebs
+- Update terrestria
+- Update things
+- Update waystones
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
@@ -126,10 +143,9 @@ Tip: use the latest version of fabric
 ```
 
 ## Other mods
+- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
 - [Ordinary Coins](https://www.curseforge.com/minecraft/mc-mods/ordinary-coins)
 - [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus/files)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
 - Orb of origin plus: ![Screenshot_20230708-073610_Iceraven](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/2e36680c-da69-4dde-b787-4f3715dceb74)
 - Simply Swords: ![Снимок экрана_2023-07-17_19-43-18](https://github.com/WasteLand-Dev/AdventureTime/assets/76490476/a9a7f0ca-7563-45a9-b124-7c7d51cd43d7)
-
-
