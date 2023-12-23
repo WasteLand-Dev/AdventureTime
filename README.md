@@ -1,5 +1,5 @@
 # Traveller's Story
-```v1.8.0-Release```
+```v1.8.1-Release```
 ```1.20.1```
 
 ## About
@@ -36,52 +36,21 @@ We recommend allocate minimum 8GB of ram for singleplayer game and 6GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 ### Changelog:
-- New! Add Deeper and Darker
-- New! Add difficultylock
-- Remove sculk deeps
-- Update Bookshelf
-- Update ExtendedDrawers
-- Update Iceberg
-- Update ImmediatelyFast
-- Update Incendium
-- Update Kiwi
-- Update LunaSlimes
-- Update Patchouli
-- Update PuzzlesLib
+- Update FogLooksGoodNow
+- Update Pehkui
 - Update SnowRealMagic
-- Update TooManyOrigins
-- Update Towns-and-Towers
-- Update alloy-forgery
-- Update azurelib
-- Update balm
-- Update betterstats
-- Update cherishedworlds
-- Update cinderscapes
+- Update bclib
+- Update better-nether
+- Update cloth-config
 - Update collective
-- Update conjuring
-- Update deeperdarker
 - Update desolation
-- Update eating-animation
-- Update emi
-- Update emoji-type
-- Update extraorigins
-- Update farmers-delight
-- Update fastrandom
-- Update fish_of_thieves
-- Update frostiful
-- Update geckolib
+- Update fabric-language-kotlin
 - Update grabbymobs
-- Update inventorytotem
 - Update modernfix
-- Update netherportalspread
+- Update moonlight
 - Update resourcefullib
-- Update skeletonhorsespawn
-- Update sleep_tight
-- Update soundphysics
-- Update spidersproducewebs
-- Update terrestria
-- Update things
-- Update waystones
+- Update sound-physics-remastered
+
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

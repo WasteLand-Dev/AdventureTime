@@ -54,7 +54,7 @@ warpButtonY = 60
 allowWaystoneToWaystoneTeleport = true
 
 # Set to 'ALLOW' to allow dimensional warp in general. Set to 'GLOBAL_ONLY' to restrict dimensional warp to global waystones. Set to 'DENY' to disallow all dimensional warps.
-dimensionalWarp = "ALLOW"
+dimensionalWarp = "DENY"
 
 # List of dimensions that players are allowed to warp cross-dimension from and to. If left empty, all dimensions except those in dimensionalWarpDenyList are allowed.
 dimensionalWarpAllowList = [  ]
@@ -72,7 +72,7 @@ globalWaystoneSetupRequiresCreativeMode = false
 leashedDenyList = [ "minecraft:wither" ]
 
 # If enabled, only the owner of a waystone (the one who placed it) can rename it.
-restrictRenameToOwner = true
+restrictRenameToOwner = false
 
 # If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.
 restrictToCreative = false
@@ -81,7 +81,7 @@ restrictToCreative = false
 transportLeashed = true
 
 # Whether to take leashed mobs with you when teleporting between dimensions
-transportLeashedDimensional = true
+transportLeashedDimensional = false
 
 [worldGen]
 
