@@ -2,6 +2,9 @@
 ```v1.8.2-Release```
 ```1.20.1```
 
+## Moved to codeberg
+https://codeberg.org/WasteLandOrigin/Traveller-s-Story
+
 ## About
 Adventure minecraft modpack. This modpack add new dimensions, biomes and mobs. Aliens and space, dungeons and much more!
 
